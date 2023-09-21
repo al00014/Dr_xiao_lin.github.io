@@ -1,2 +1,7 @@
+title: [Associate Professor: Xiao Lin, SYSU, School of Public Health]
 description: "Hello, fellows. Good to introduce to you all about my exciting careers and achievements. Please contact me if have any potential interest in further collaboration at below email address"
 email: "linx87@mail.sysu.edu.cn"
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+gem "github-pages", group: :jekyll_plugins
