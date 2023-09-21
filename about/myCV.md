@@ -5,12 +5,12 @@
 
 ## Education
 
-### Medical Doctor in Epidemiology and Biostatistics
+### Doctor of Medicine in Epidemiology and Biostatistics
 - *Sun Yat-sen University*, Guangzhou, Guangdong, China
 - *09 2015* - *06 2020*
 - Dissertation: *Evaluation and prediction of burden of disease attributable to PM2.5*
 
-### Bachelor of Science in Health Sciences
+### Bachelor of Medicine in Preventive Medicine
 - *Sun Yat-sen University*, Guangzhou, Guangdong, China
 - *09 2010* - *06 2015*
 
