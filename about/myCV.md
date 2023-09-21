@@ -1,24 +1,27 @@
 # Dr. Xiao Lin
 
 - **Email:** linx87@mail.sysu.edu.cn / linxiao6@mail2.sysu.edu.cn
-- **Personal Interest:** Summary measures of population health, with a focus on: 1) Novel establishment of health evaluation indicators, such as Healthy Life Expectancy, Healthy Cities Evaluation; 2) Burden of disease study and comparative risk assessment, particularly on burden of disease attributable to environmental hazardous materials; 3) Causal inference based on innovative causal design and counterfactual analysis.
+- **Personal Interest:** Summary measures of population health, with a focus on:
+- 1) Novel establishment of health evaluation indicators, such as Healthy Life Expectancy, Healthy Cities Evaluation;
+  2) Burden of disease study and comparative risk assessment, particularly on burden of disease attributable to environmental hazardous materials;
+  3) Causal inference based on innovative causal design and counterfactual analysis.
 
 ## Education
 
 ### Doctor of Medicine in Epidemiology and Biostatistics
 - *Sun Yat-sen University*, Guangzhou, Guangdong, China
-- *09 2015* - *06 2020*
+- *09 / 2015* - *06 / 2020*
 - Dissertation: *Evaluation and prediction of burden of disease attributable to PM2.5*
 
 ### Bachelor of Medicine in Preventive Medicine
 - *Sun Yat-sen University*, Guangzhou, Guangdong, China
-- *09 2010* - *06 2015*
+- *09 / 2010* - *06 / 2015*
 
 ## Work Experience
 
 ### Associate Professor
 - *Sun Yat-sen University*, Guangzhou, Guangdong, China
-- *08 2023* - Present
+- *08 / 2023* - Present
 - Responsibilities:
   - Conducting research on summary measures of population health
   - Teaching courses related to public health, biostatistics, and epidemiology
@@ -26,7 +29,7 @@
 
 ### Post-Doc Research Fellow
 - *Sun Yat-sen University*, Guangzhou, Guangdong, China
-- *07 2020* - *08 2023*
+- *07 / 2020* - *08 / 2023*
 - Responsibilities:
   - Collaborated on research projects related to population health
   - Analyzed and interpreted data
@@ -56,6 +59,16 @@
 3. *The burden associated with ambient PM2.5 and meteorological factors in Guangzhou, China, 2012–2016: A generalized additive modeling of temporal years of life lost*
    - Journal: *Chemosphere*
    - Year: *2018*
+   - Authors: *Xiao Lin et al.*
+
+4. *Regional years of life lost, years lived with disability, and disability-adjusted life-years for severe mental disorders in Guangdong Province, China: a real-world longitudinal study*
+   - Journal: *Global Health Research and Policy*
+   - Year: *2022*
+   - Authors: *Xiao Lin (Main Correspondence) et al.*
+
+5. *Spatial-temporal distribution of disability-adjusted life-years of lung cancer attributable to ambient PM2.5 in Guangzhou, China, 2010-2013: a population-based study*
+   - Journal: *Journal of Environmental Informatics*
+   - Year: *2022*
    - Authors: *Xiao Lin et al.*
 
 ## Conference Presentations
