@@ -93,6 +93,11 @@
 - Epidemiological modeling, with a focus on causal inference design and modeling methods
 - Literature review and synthesis, with a focus on Bayesian meta-analysis methods
 
+## Package development:
+1. An R package to evaluate burden of disease for the local data, yielding DALY metric mainly. https://github.com/al00014/LBOD
+2. An easy version of method to calculate life expectancy, based on mortality data. https://github.com/al00014/HealthExpectancy
+
+   
 ## Languages
 
 - English (Fluent)
