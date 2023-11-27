@@ -84,7 +84,7 @@
    - Year: *2022*
    - Authors: ***Xiao Lin** (Correspondence) et al.*
 
-8. *[Key Social Determinants to Narrow the Gap between Health-adjusted Life Expectancy and Life Expectancy in Megacities.](https://ghrp.biomedcentral.com/articles/10.1186/s41256-022-00253-3)*
+8. *[Key Social Determinants to Narrow the Gap between Health-adjusted Life Expectancy and Life Expectancy in Megacities.](https://www.sciencedirect.com/science/article/pii/S0895398822001350)*
    - Journal: *Biomedical and Environmental Sciences*
    - Year: *2022*
    - Authors: ***Xiao Lin** (Correspondence) et al.*
