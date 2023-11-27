@@ -124,12 +124,12 @@
    - Year: *2023*
    - Authors: *Xiao Lin (Correspondence) et al.*
 
-16. *[The risk of injuries during work and its association with precipitation: New insight from a sentinel-based surveillance and a case-crossover design.](https://linkinghub.elsevier.com/retrieve/pii/S0048-9697(22)06104-6)*
+16. *[The risk of injuries during work and its association with precipitation: New insight from a sentinel-based surveillance and a case-crossover design.](https://www.frontiersin.org/articles/10.3389/fpubh.2023.1117948/full)*
    - Journal: *Frontiers in Public Health*
    - Year: *2023*
    - Authors: *Tian Tian#, Xiao Lin#, Tingyuan Huang# (#contributed equally) et al.*
-   - 
-17. *[A psychometric evaluation of Chinese chronic hepatitis B virus infection-related stigma scale using classical test theory and item response theory.](https://www.frontiersin.org/articles/10.3389/fpubh.2023.1117948/full)*
+   
+17. *[A psychometric evaluation of Chinese chronic hepatitis B virus infection-related stigma scale using classical test theory and item response theory.](https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1035071/full)*
    - Journal: *Frontiers in Psychology*
    - Year: *2023*
    - Authors: *Xiao Lin (Correspondence) et al.*
@@ -141,17 +141,17 @@
 
 ## Conference Presentations
 
-1. *The burden of cardio-cerebrovascular disease and lung cancer attributable to PM2.5 for 2009, Guangzhou*
+1. *Influential factors on extending life expectancy*
+   - Conference: 全国预期寿命测算与分析培训班 (China)
+   - Year: *2023*
+
+2. *Compuation of life expectancy*
+   - Conference: Academic Salon on Disciplinary Integration and Innovation Development (China)
+   - Year: *2023*
+   
+3. *The burden of cardio-cerebrovascular disease and lung cancer attributable to PM2.5 for 2009, Guangzhou*
    - Conference: *Global Burden of Disease Study 20th Anniversary*
    - Year: *2017*
-
-2. *Influential factors on extending life expectancy*
-   - Conference: 全国预期寿命测算与分析培训班(China)
-   - Year: *2023*
-
-3. *Compuation of life expectancy*
-   - Conference: Academic Salon on Disciplinary Integration and Innovation Development(China)
-   - Year: *2023*
 
 ## Awards and Honors
 
